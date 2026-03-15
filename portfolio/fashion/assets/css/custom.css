@@ -1,0 +1,29 @@
+/*Student Name: Taha Iftikhar Student ID: 76982*/
+/* Add your custom CSS here */
+              
+header h1 { font-size: var(--font-size-xxxl) } 
+body {font-family:'Playfair Display', serif}
+
+.theme-dark.section-selector-1 a:link,
+.theme-dark.section-selector-1 a:visited { color: var(--green-200) }
+
+.theme-dark.section-selector-1 a:focus,
+.theme-dark.section-selector-1 a:hover,
+.theme-dark.section-selector-1 a:active { color: var(--white-000) }  
+
+.section-selector-1 { background-color: var(--green-800); }
+
+.section-selector-2 { background-color: var(--gray-200); }
+
+.section-selector-4 { background-color: var(--green-800); }
+.section-selector-4 h2 {  color: var(--white-000)}
+.section-selector-4 h1 {  color: var(--white-000)}
+
+.section-selector-4 div[class^='flex-cols-'] div[class^='col-'] figure.icon { 
+
+    color: var(--white-000); 
+}
+.flex-cols-4.text-center h3,
+.flex-cols-4.text-center p {
+    color: var(--white-000);
+}

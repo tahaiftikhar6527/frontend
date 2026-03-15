@@ -1,0 +1,14 @@
+/*Student Name: Taha Iftikhar Student ID: 76982*/
+nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #6B3F69 }
+header.theme-dark   { background-color: #6B3F69 }
+header.theme-dark  h1 { color: var(--trend-050); }
+section.theme-dark   { background-color: #A376A2 }
+footer.theme-dark   { background-color:#6B3F69 }
+header .col-text h2, .col-1 > h3 { line-height: 1.8 }
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
